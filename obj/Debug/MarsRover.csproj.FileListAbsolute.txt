@@ -1,0 +1,14 @@
+D:\Personal\MarsRover\obj\Debug\MarsRover.csprojAssemblyReference.cache
+D:\Personal\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+D:\Personal\MarsRover\bin\Debug\MarsRover.exe.config
+D:\Personal\MarsRover\bin\Debug\MarsRover.exe
+D:\Personal\MarsRover\bin\Debug\MarsRover.pdb
+D:\Personal\MarsRover\obj\Debug\MarsRover.exe
+D:\Personal\MarsRover\obj\Debug\MarsRover.pdb
+D:\Personal\MarsRoverNavigator\bin\Debug\MarsRover.exe.config
+D:\Personal\MarsRoverNavigator\bin\Debug\MarsRover.exe
+D:\Personal\MarsRoverNavigator\bin\Debug\MarsRover.pdb
+D:\Personal\MarsRoverNavigator\obj\Debug\MarsRover.csprojAssemblyReference.cache
+D:\Personal\MarsRoverNavigator\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+D:\Personal\MarsRoverNavigator\obj\Debug\MarsRover.exe
+D:\Personal\MarsRoverNavigator\obj\Debug\MarsRover.pdb
